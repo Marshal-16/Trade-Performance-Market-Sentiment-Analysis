@@ -103,15 +103,7 @@ Evaluation Metrics:
 ```bash
 git clone https://github.com/your-username/trade-performance-market-sentiment-analysis.git
 cd trade-performance-market-sentiment-analysis
-```
 
-### Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-or
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn notebook
